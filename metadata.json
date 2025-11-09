@@ -1,0 +1,8 @@
+{
+  "description": "An AI-powered personal stylist app that helps users plan daily outfits from their own wardrobe.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "name": "App"
+}
